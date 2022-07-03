@@ -121,6 +121,7 @@ for num in data:
         print(num, end=' ')
 
 print('Max Value is ', max)
+print('This is just a test statement')
 
 
 
